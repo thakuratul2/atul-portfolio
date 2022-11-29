@@ -18,6 +18,7 @@ const Navbar=()=>{
                         <li>Home</li>
                         <li>Services</li>
                         <li>Experience</li>
+                        <li>Projects</li>
                         <li>About Us</li>
                     </ul>
                 </div>
