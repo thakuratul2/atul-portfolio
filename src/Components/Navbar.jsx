@@ -14,7 +14,7 @@ const Navbar=()=>{
             </div>
             <div className="rightSide">
                 <div className="rightList">
-                    <ul>
+                    <ul style={{listStyleType: 'none'}}>
                         <li>Home</li>
                         <li>Services</li>
                         <li>Experience</li>

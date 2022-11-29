@@ -15,7 +15,7 @@
 }
 .rightSide{
     display: flex;
-    flex: 1;
+    flex: 2;
     align-items: center;
     justify-content: center;
     font-weight: 400;
@@ -31,4 +31,21 @@
 .rightList>ul>li:hover{
     cursor: pointer;
     color: var(--orange);
+}
+.contactUs{
+    border-radius: 34px;
+    border: none;
+    color: white;
+    font-size: 16px;
+    padding: 10px 25px 10px 25px;
+    flex: 2;
+    background: linear-gradient(180deg,#35e46c 26.71%,#08f14a 96.36%);
+    box-shadow: 0px 19px 60px 3px rgba(251,161,40,0.42);
+}
+.contactUs:hover{
+    background: white;
+    cursor: pointer;
+    color: var(--orange);
+    border: 1px solid var(--orange);
+
 }
