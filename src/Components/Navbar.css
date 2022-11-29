@@ -1,0 +1,34 @@
+.wrapper{
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+}
+.leftSide{
+    flex: 1;
+    align-items: center;
+    display: flex;
+    gap: 2rem;
+}
+.nameAuthor{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.rightSide{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+}
+.rightList{
+    flex: 10;
+}
+.rightList>ul{
+    display: flex;
+    gap: 2rem;
+    margin-right: 4rem;
+}
+.rightList>ul>li:hover{
+    cursor: pointer;
+    color: var(--orange);
+}
