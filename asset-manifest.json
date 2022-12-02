@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atul-portfolio/static/css/main.209123e9.css",
+    "main.js": "/atul-portfolio/static/js/main.39902926.js",
+    "index.html": "/atul-portfolio/index.html",
+    "main.209123e9.css.map": "/atul-portfolio/static/css/main.209123e9.css.map",
+    "main.39902926.js.map": "/atul-portfolio/static/js/main.39902926.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.209123e9.css",
+    "static/js/main.39902926.js"
+  ]
+}
